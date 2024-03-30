@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Zeeoneofc",
+  "author": "RN76 STORE",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys" : "npm:@whiskeysockets/baileys@^6.5.0",
